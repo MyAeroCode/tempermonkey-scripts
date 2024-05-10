@@ -1,0 +1,26 @@
+{
+  "name": "tempermonkey-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prebuild": "rm -rf dist",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyAeroCode/tempermonkey-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyAeroCode/tempermonkey-scripts/issues"
+  },
+  "homepage": "https://github.com/MyAeroCode/tempermonkey-scripts#readme",
+  "devDependencies": {
+    "@types/tampermonkey": "^5.0.2",
+    "@types/web": "^0.0.143",
+    "typescript": "^5.4.5"
+  }
+}
