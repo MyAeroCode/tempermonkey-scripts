@@ -21,6 +21,7 @@
   "devDependencies": {
     "@types/tampermonkey": "^5.0.2",
     "@types/web": "^0.0.143",
+    "prettier": "^3.2.5",
     "typescript": "^5.4.5"
   }
 }
