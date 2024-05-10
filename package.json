@@ -1,5 +1,5 @@
 {
-  "name": "tempermonkey-scripts",
+  "name": "tampermonkey-scripts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MyAeroCode/tempermonkey-scripts.git"
+    "url": "git+https://github.com/MyAeroCode/tampermonkey-scripts.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MyAeroCode/tempermonkey-scripts/issues"
+    "url": "https://github.com/MyAeroCode/tampermonkey-scripts/issues"
   },
-  "homepage": "https://github.com/MyAeroCode/tempermonkey-scripts#readme",
+  "homepage": "https://github.com/MyAeroCode/tampermonkey-scripts#readme",
   "devDependencies": {
     "@types/tampermonkey": "^5.0.2",
     "@types/web": "^0.0.143",
