@@ -10,8 +10,8 @@
 // @grant        none
 // ==/UserScript==
 
-async function main() {
+async function helloWorld2() {
   console.log("Hello, World! 2");
 }
 
-main();
+helloWorld2();
