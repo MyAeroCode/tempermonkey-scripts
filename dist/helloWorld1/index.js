@@ -10,8 +10,7 @@
 // @icon         <$ICON$>
 // @grant        none
 // ==/UserScript==
-Object.defineProperty(exports, "__esModule", { value: true });
-async function main() {
+async function helloWorld1() {
     console.log("Hello, World! 1");
 }
-main();
+helloWorld1();
