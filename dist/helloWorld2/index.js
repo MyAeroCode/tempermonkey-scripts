@@ -1,4 +1,3 @@
-"use strict";
 // ==UserScript==
 // @name         Hello, World! 2
 // @namespace    https://aerocode.net
